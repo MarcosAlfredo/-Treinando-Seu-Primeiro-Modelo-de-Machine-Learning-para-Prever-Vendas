@@ -1,0 +1,17 @@
+from azure.ai.ml import dsl, Input, Output, schedule
+
+# Define o pipeline
+@dsl.pipeline()
+def meu_pipeline():
+    # Etapas do pipeline
+    pass
+
+# Configura o agendamento
+meu_agendamento = schedule(
+    job=meu_pipeline(),
+    recurrence_frequency="daily",  # Executar diariamente
+    interval=1,
+    start_time="2025-04-01T00:00:00Z"
+)
+
+print("Pipeline agendado!")
