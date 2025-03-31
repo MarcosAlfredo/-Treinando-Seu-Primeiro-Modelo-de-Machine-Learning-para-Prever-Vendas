@@ -1,4 +1,4 @@
-# -Treinando-Seu-Primeiro-Modelo-de-Machine-Learning-para-Prever-Vendas
+Treinando-Seu-Primeiro-Modelo-de-Machine-Learning-para-Prever-Vendas
 
 Cenário
 Imagine que você é proprietário de uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea. Você percebe que a quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. No entanto, sem um planejamento adequado, você pode acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
